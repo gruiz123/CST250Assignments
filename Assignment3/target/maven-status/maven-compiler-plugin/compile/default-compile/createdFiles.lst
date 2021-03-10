@@ -1,2 +1,3 @@
-SavingsAccount.class
-SavingsAccountTest.class
+BankAccount.class
+Bank.class
+CheckingAccount.class
