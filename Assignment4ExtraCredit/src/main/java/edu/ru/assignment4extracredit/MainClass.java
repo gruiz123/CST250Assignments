@@ -10,7 +10,7 @@ import java.util.Random;
 public class MainClass {
 
     public static void main(String[] args) throws IOException {
-        // Test
+
         System.out.println(getRandomWord("C:\\Users\\Jerry\\CST250Assignments\\Assignment4ExtraCredit\\names.txt"));
     }
 
